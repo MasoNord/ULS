@@ -23,7 +23,7 @@ In this repository I've collected all resources I used and using as of today to 
 ### Roadmaps
 - [Java Developer](https://roadmap.sh/java)
 - [Java Роадмап Сергея Жукова](https://zhukovsd.github.io/java-backend-learning-course/)
-- [Руководство по вкатыванию в Backend на Java](#https://eightm.github.io/JavaBackendStartGuide/)
+- [Руководство по вкатыванию в Backend на Java](https://eightm.github.io/JavaBackendStartGuide/)
 
 ### Exercises
 - [CodingBat](https://codingbat.com/java)
