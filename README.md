@@ -4,6 +4,7 @@ In this repository I've collected all resources I used and using as of today to 
 ## Context
 1. [Java](#java)
 2. [OOP](#oop)
+3. [Algorithms and data structures](#algorithms-and-data-structures)
 <!-- 3. [Databases](#databases)
 4. [Git](#git)
 5. [Competative Programming](#competative-programming) -->
@@ -33,6 +34,13 @@ In this repository I've collected all resources I used and using as of today to 
 ## OOP
 ### Books
 - Thinking in Java, Bruce Eckel
+
+## Algorithms and data structures
+### Books
+- Introduction to Algorithms, Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
+- Grokking Algorithms, Aditya Y. Bhargava
+- Algorithms, Robert Sedgewick, Kevin Wayne
+- The Algorithm Design Manual, Steven S. Skiena
 
 <!-- ## Databases
 
