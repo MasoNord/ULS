@@ -5,6 +5,7 @@ In this repository I've collected all resources I used and using as of today to 
 1. [Java](#java)
 2. [OOP](#oop)
 3. [Algorithms and data structures](#algorithms-and-data-structures)
+4. [Competitive Programming](#competitive-programming)
 <!-- 3. [Databases](#databases)
 4. [Git](#git)
 5. [Competative Programming](#competative-programming) -->
@@ -42,6 +43,16 @@ In this repository I've collected all resources I used and using as of today to 
 - Algorithms, Robert Sedgewick, Kevin Wayne
 - The Algorithm Design Manual, Steven S. Skiena
 
+## Competitive Programming
+### Website for practice
+- [Codeforces](https://codeforces.com/)
+- [AtCoder](https://atcoder.jp/home)
+- [UVa](https://onlinejudge.org/index.php)
+- [CSES](https://cses.fi/)
+### Website for learning
+- [USACO](https://usaco.guide/)
+- [Algorithms for Competitive Programming](https://cp-algorithms.com/)
+- [AlgoMonster](https://algo.monster/)
 <!-- ## Databases
 
 ## Git
