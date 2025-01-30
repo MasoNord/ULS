@@ -6,9 +6,7 @@ In this repository I've collected all resources I used and using as of today to 
 2. [OOP](#oop)
 3. [Algorithms and data structures](#algorithms-and-data-structures)
 4. [Competitive Programming](#competitive-programming)
-<!-- 3. [Databases](#databases)
-4. [Git](#git)
-5. [Competative Programming](#competative-programming) -->
+5. [Databases](#databases)
 
 ## Java
 ### Core
@@ -44,17 +42,23 @@ In this repository I've collected all resources I used and using as of today to 
 - The Algorithm Design Manual, Steven S. Skiena
 
 ## Competitive Programming
-### Website for practice
+### Websites for practice
 - [Codeforces](https://codeforces.com/)
 - [AtCoder](https://atcoder.jp/home)
 - [UVa](https://onlinejudge.org/index.php)
 - [CSES](https://cses.fi/)
-### Website for learning
+### Websites for learning theory
 - [USACO](https://usaco.guide/)
 - [Algorithms for Competitive Programming](https://cp-algorithms.com/)
 - [AlgoMonster](https://algo.monster/)
-<!-- ## Databases
 
-## Git
+## Databases
+### Website for practice
+- [Интеркаткивный тренажер по SQL](https://stepik.org/course/63054/syllabus)
+### Books
+- Practical SQL, Anthony Debarros
 
-## Competative Programming -->
+
+<!-- ## Git
+
+## Competative Programming  -->
