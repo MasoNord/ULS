@@ -33,6 +33,7 @@ In this repository I've collected all resources I used and using as of today to 
 ## OOP
 ### Books
 - Thinking in Java, Bruce Eckel
+- [Books on Design and OOP](http://sergeyteplyakov.blogspot.com/2014/07/books-on-design-and-ood.html)
 
 ## Algorithms and data structures
 ### Books
