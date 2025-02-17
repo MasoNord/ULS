@@ -56,6 +56,10 @@ In this repository I've collected all resources I used and using as of today to 
 ## Databases
 ### Website for practice
 - [Интеркаткивный тренажер по SQL](https://stepik.org/course/63054/syllabus)
+- [SQL-ex](https://sql-ex.ru/)
+- [SQL practice](https://www.sql-practice.com/)
+- [SQLtest](https://sqltest.online/)
+- [SQL Academy](https://sql-academy.org/ru/trainer)
 ### Books
 - Practical SQL, Anthony Debarros
 
